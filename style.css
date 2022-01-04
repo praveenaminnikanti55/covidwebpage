@@ -1,0 +1,33 @@
+.header1{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between; 
+    list-style:none;
+}
+.ele{
+    list-style:none;
+}
+.HIicon{
+    height:25px;
+    width:25px;
+}
+
+.header-section{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around; 
+}
+.cases-sec{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around; 
+}
+.card{
+    display:flex;
+    flex-direction:column; 
+}
+.display{
+    list-style:none;
+    display:flex;
+    flex-direction:column; 
+}
